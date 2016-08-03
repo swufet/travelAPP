@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="3388128919845239" >
+
+    <task
+        name="javac"
+        duration="29983" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="398" />
+    <task
+        name="verifier"
+        duration="136" />
+
+    <artifact
+        location="D:\Android\Projects\Travel\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="3388128919845239" >
+        <artifact
+            location="D:\Android\Projects\Travel\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
